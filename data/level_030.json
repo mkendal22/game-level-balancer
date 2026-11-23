@@ -1,0 +1,131 @@
+{
+ "name": "Çeşme Tezgâh",
+ "tier": "orta",
+ "shape": "V",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "carrot": 9,
+    "banana": 3,
+    "strawberry": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "broccoli": 9,
+    "corn": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "carrot",
+     "broccoli"
+    ],
+    [
+     "broccoli",
+     "corn",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    330
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "strawberry",
+     "banana"
+    ],
+    [
+     "carrot",
+     "corn",
+     "carrot"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    200,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "carrot",
+     "banana?"
+    ],
+    [
+     "corn",
+     "broccoli"
+    ],
+    [
+     "corn",
+     "broccoli"
+    ],
+    [
+     "banana",
+     "strawberry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "broccoli",
+     "broccoli"
+    ],
+    [
+     "corn~1",
+     "carrot"
+    ],
+    [
+     "broccoli",
+     "broccoli"
+    ],
+    [
+     "corn",
+     ""
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "carrot",
+     "strawberry"
+    ],
+    [
+     "carrot",
+     "carrot",
+     "carrot"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.46
+}

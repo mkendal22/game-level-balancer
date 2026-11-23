@@ -1,0 +1,135 @@
+{
+ "name": "Komşu Pazar",
+ "tier": "kolay",
+ "shape": "elmas",
+ "theme": "poşet günü",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "grape": 3,
+    "carrot": 9,
+    "cherry": 9
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "broccoli": 9
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "carrot?",
+     "carrot"
+    ],
+    [
+     "carrot",
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    125,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cherry",
+     "carrot"
+    ],
+    [
+     "broccoli",
+     "grape"
+    ],
+    [
+     "cherry~1",
+     "cherry"
+    ],
+    [
+     "grape",
+     ""
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "carrot",
+     "broccoli"
+    ],
+    [
+     "carrot",
+     "cherry?"
+    ],
+    [
+     "cherry",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "broccoli",
+     "cherry"
+    ],
+    [
+     "broccoli",
+     "cherry"
+    ],
+    [
+     "carrot",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cherry",
+     "broccoli"
+    ],
+    [
+     "carrot~1",
+     "grape"
+    ],
+    [
+     "broccoli",
+     "broccoli"
+    ],
+    [
+     "carrot",
+     ""
+    ]
+   ]
+  }
+ ],
+ "sim": 0.8
+}

@@ -1,0 +1,155 @@
+{
+ "name": "Tatlı Reyon",
+ "tier": "nefes",
+ "shape": "pencere",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "corn": 6,
+    "strawberry": 9,
+    "onion": 9
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "pepper": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    140,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "strawberry",
+     "onion"
+    ],
+    [
+     "onion",
+     "corn"
+    ],
+    [
+     "pepper",
+     "strawberry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "strawberry"
+    ],
+    [
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    580,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "onion",
+     "onion"
+    ],
+    [
+     "onion",
+     "onion"
+    ],
+    [
+     "pepper",
+     ""
+    ]
+   ],
+   "gold": 30
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "corn",
+     "strawberry"
+    ],
+    [
+     "onion",
+     "corn",
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    140,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "strawberry",
+     "corn"
+    ],
+    [
+     "strawberry",
+     "corn"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "strawberry"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "pepper"
+    ]
+   ],
+   "lock": 3
+  },
+  {
+   "pos": [
+    580,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "corn",
+     "onion"
+    ],
+    [
+     "pepper",
+     "strawberry"
+    ]
+   ]
+  }
+ ],
+ "sim": 1.0
+}

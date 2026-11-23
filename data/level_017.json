@@ -1,0 +1,123 @@
+{
+ "name": "Altın Pazar",
+ "tier": "zor",
+ "shape": "zigzag",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "pepper": 3,
+    "lemon": 9,
+    "strawberry": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "watermelon": 9,
+    "apple": 9
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "watermelon",
+     "lemon",
+     "watermelon"
+    ],
+    [
+     "watermelon",
+     "pepper",
+     "watermelon"
+    ],
+    [
+     "apple",
+     "apple",
+     "apple"
+    ],
+    [
+     "",
+     "lemon",
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    200,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "strawberry",
+     "apple"
+    ],
+    [
+     "watermelon",
+     "watermelon"
+    ],
+    [
+     "lemon",
+     "watermelon~1"
+    ],
+    [
+     "apple",
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "apple",
+     "apple"
+    ],
+    [
+     "lemon",
+     "lemon"
+    ],
+    [
+     "lemon",
+     "strawberry~1"
+    ],
+    [
+     "lemon",
+     "apple"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "lemon~1",
+     "apple",
+     "watermelon"
+    ],
+    [
+     "watermelon",
+     "lemon",
+     "strawberry"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.34
+}

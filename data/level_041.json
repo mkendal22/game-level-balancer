@@ -1,0 +1,121 @@
+{
+ "name": "Neşeli Sepet",
+ "tier": "nefes",
+ "shape": "dalga",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "lemon": 6,
+    "orange": 3,
+    "cherry": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "strawberry": 3,
+    "apple": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    240,
+    330
+   ],
+   "layers": [
+    [
+     "lemon",
+     "apple",
+     "apple"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    580,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "cherry"
+    ],
+    [
+     "strawberry"
+    ]
+   ],
+   "lock": 2
+  },
+  {
+   "pos": [
+    140,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "lemon"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "orange"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    480,
+    590
+   ],
+   "layers": [
+    [
+     "apple",
+     "lemon",
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    240,
+    850
+   ],
+   "layers": [
+    [
+     "lemon",
+     "cherry",
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    580,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "lemon"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "orange"
+    ],
+    [
+     "orange"
+    ]
+   ]
+  }
+ ],
+ "sim": 1.0
+}

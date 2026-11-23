@@ -1,0 +1,146 @@
+{
+ "name": "Fırın Tezgâh",
+ "tier": "nefes",
+ "shape": "piramit",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "banana": 3,
+    "eggplant": 6,
+    "potato": 9
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "cherry": 12,
+    "onion": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "layers": [
+    [
+     "potato",
+     "potato",
+     "eggplant"
+    ],
+    [
+     "banana",
+     "eggplant",
+     "potato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    200,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cherry",
+     "cherry"
+    ],
+    [
+     "cherry",
+     "cherry"
+    ],
+    [
+     "cherry",
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "potato",
+     "potato"
+    ],
+    [
+     "banana",
+     "eggplant"
+    ],
+    [
+     "onion",
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    125,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "potato",
+     "cherry"
+    ],
+    [
+     "cherry",
+     "banana"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "eggplant",
+     "potato"
+    ],
+    [
+     "cherry",
+     "potato"
+    ],
+    [
+     "cherry",
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "eggplant",
+     "potato"
+    ],
+    [
+     "eggplant",
+     "cherry"
+    ],
+    [
+     "",
+     "cherry"
+    ]
+   ]
+  }
+ ],
+ "sim": 1.0
+}

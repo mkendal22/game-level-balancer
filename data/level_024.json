@@ -1,0 +1,82 @@
+{
+ "name": "Bereketli Reyon",
+ "tier": "kolay",
+ "shape": "dev",
+ "theme": "kilitli",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "strawberry": 3,
+    "onion": 3,
+    "grape": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "mushroom": 3,
+    "pepper": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    420
+   ],
+   "layers": [
+    [
+     "pepper",
+     "grape",
+     "strawberry"
+    ],
+    [
+     "grape",
+     "mushroom",
+     "grape"
+    ]
+   ],
+   "lock": 3
+  },
+  {
+   "pos": [
+    190,
+    740
+   ],
+   "layers": [
+    [
+     "pepper",
+     "grape",
+     "strawberry~1"
+    ],
+    [
+     "onion",
+     "onion",
+     "mushroom"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    740
+   ],
+   "layers": [
+    [
+     "pepper",
+     "strawberry",
+     "grape"
+    ],
+    [
+     "mushroom",
+     "grape",
+     "onion"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.84
+}

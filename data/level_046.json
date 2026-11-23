@@ -1,0 +1,148 @@
+{
+ "name": "Güneşli Manav",
+ "tier": "kolay",
+ "shape": "kanat",
+ "theme": "poşet günü",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "watermelon": 3,
+    "pepper": 6,
+    "cucumber": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "cherry": 6,
+    "broccoli": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    230,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cherry",
+     "broccoli"
+    ],
+    [
+     "pepper",
+     "pepper?"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "cherry"
+    ],
+    [
+     "broccoli?"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "cherry~1"
+    ],
+    [
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    200,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "cucumber"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    490,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cucumber",
+     "broccoli"
+    ],
+    [
+     "cherry",
+     "watermelon?"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    230,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cherry",
+     "cucumber~1"
+    ],
+    [
+     "watermelon?",
+     "cucumber"
+    ],
+    [
+     "cherry",
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "broccoli"
+    ],
+    [
+     "broccoli"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "watermelon?"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.78
+}

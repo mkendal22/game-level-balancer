@@ -1,0 +1,141 @@
+{
+ "name": "Renkli Pazar",
+ "tier": "kolay",
+ "shape": "klasik",
+ "theme": "buz festivali",
+ "tools": {
+  "magnet": 2
+ },
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "grape": 9,
+    "tomato": 9,
+    "orange": 12
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "cherry": 9
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "tomato",
+     "tomato",
+     "tomato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    330
+   ],
+   "layers": [
+    [
+     "orange~1",
+     "orange",
+     "tomato"
+    ],
+    [
+     "grape",
+     "cherry",
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    590
+   ],
+   "layers": [
+    [
+     "grape",
+     "orange",
+     "grape~1"
+    ],
+    [
+     "tomato",
+     "orange",
+     "tomato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    590
+   ],
+   "layers": [
+    [
+     "grape~1",
+     "cherry",
+     "grape"
+    ],
+    [
+     "grape",
+     "orange",
+     "orange"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "orange",
+     "orange",
+     "tomato"
+    ],
+    [
+     "tomato",
+     "grape~1",
+     "orange"
+    ],
+    [
+     "tomato~1",
+     "cherry~1",
+     "orange"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "cherry",
+     "orange~1",
+     "cherry"
+    ],
+    [
+     "cherry~1",
+     "cherry",
+     "cherry"
+    ],
+    [
+     "orange",
+     "grape",
+     "grape"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.8
+}

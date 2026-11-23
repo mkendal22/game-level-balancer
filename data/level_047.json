@@ -1,0 +1,112 @@
+{
+ "name": "Altın Pazar",
+ "tier": "kolay",
+ "shape": "ters T",
+ "theme": "çok çeşit",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "broccoli": 3,
+    "lemon": 3,
+    "apple": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "potato": 3,
+    "orange": 3,
+    "strawberry": 6
+   }
+  },
+  {
+   "id": "c2",
+   "list": {
+    "banana": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "layers": [
+    [
+     "potato",
+     "apple",
+     "apple"
+    ],
+    [
+     "broccoli",
+     "strawberry",
+     "banana"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "layers": [
+    [
+     "orange",
+     "lemon",
+     "lemon"
+    ],
+    [
+     "strawberry",
+     "broccoli",
+     "broccoli"
+    ]
+   ],
+   "lock": 3
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "lemon",
+     "apple",
+     "orange"
+    ],
+    [
+     "strawberry",
+     "apple",
+     "strawberry~1"
+    ],
+    [
+     "apple",
+     "apple",
+     "banana"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "orange",
+     "potato",
+     "potato"
+    ],
+    [
+     "strawberry",
+     "banana",
+     "strawberry?"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.92
+}

@@ -1,0 +1,106 @@
+{
+ "name": "Altın Sokak",
+ "tier": "orta",
+ "shape": "ikiz",
+ "theme": "çok çeşit",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "broccoli": 3,
+    "strawberry": 6,
+    "mushroom": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "onion": 3,
+    "grape": 6,
+    "banana": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    420
+   ],
+   "layers": [
+    [
+     "banana",
+     "banana",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    420
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "mushroom",
+     "onion"
+    ],
+    [
+     "grape~1",
+     "strawberry",
+     "mushroom"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    740
+   ],
+   "layers": [
+    [
+     "broccoli",
+     "grape",
+     "mushroom"
+    ],
+    [
+     "banana",
+     "grape?",
+     "mushroom"
+    ],
+    [
+     "strawberry",
+     "strawberry",
+     "grape"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    740
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "onion",
+     "mushroom"
+    ],
+    [
+     "broccoli",
+     "grape",
+     "mushroom"
+    ],
+    [
+     "onion",
+     "strawberry",
+     "grape"
+    ]
+   ],
+   "lock": 3
+  }
+ ],
+ "sim": 0.44
+}

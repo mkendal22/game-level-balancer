@@ -1,0 +1,157 @@
+{
+ "name": "Tatlı Bahçe",
+ "tier": "kolay",
+ "shape": "piramit",
+ "theme": "poşet günü",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "cherry": 9,
+    "broccoli": 9,
+    "grape": 15
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "mushroom": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "layers": [
+    [
+     "grape?",
+     "cherry",
+     "cherry"
+    ],
+    [
+     "mushroom",
+     "grape",
+     "mushroom"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    200,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "broccoli",
+     "grape"
+    ],
+    [
+     "cherry",
+     "mushroom"
+    ],
+    [
+     "grape",
+     "grape"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "grape",
+     "grape?"
+    ],
+    [
+     "cherry",
+     "grape"
+    ],
+    [
+     "mushroom~1",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    125,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cherry",
+     "cherry?"
+    ],
+    [
+     "mushroom",
+     "broccoli"
+    ],
+    [
+     "grape",
+     "grape"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "broccoli?",
+     "grape"
+    ],
+    [
+     "broccoli",
+     "mushroom"
+    ],
+    [
+     "broccoli",
+     "grape"
+    ],
+    [
+     "grape",
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "grape",
+     "broccoli"
+    ],
+    [
+     "grape",
+     "broccoli"
+    ],
+    [
+     "cherry",
+     "cherry?"
+    ],
+    [
+     "broccoli~1",
+     ""
+    ]
+   ]
+  }
+ ],
+ "sim": 0.94
+}

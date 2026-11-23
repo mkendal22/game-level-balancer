@@ -1,0 +1,138 @@
+{
+ "name": "Tatlı Bahçe",
+ "tier": "orta",
+ "shape": "pencere",
+ "theme": "derin",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "carrot": 3,
+    "onion": 6,
+    "tomato": 9
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "lemon": 15,
+    "grape": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    420
+   ],
+   "layers": [
+    [
+     "lemon",
+     "onion",
+     "grape"
+    ],
+    [
+     "tomato",
+     "tomato",
+     "grape"
+    ],
+    [
+     "lemon",
+     "lemon",
+     "tomato"
+    ],
+    [
+     "lemon",
+     "carrot",
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    140,
+    740
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "lemon",
+     "onion"
+    ],
+    [
+     "carrot",
+     "lemon"
+    ],
+    [
+     "lemon",
+     "lemon"
+    ],
+    [
+     "tomato",
+     "lemon"
+    ],
+    [
+     "",
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    740
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "grape"
+    ],
+    [
+     "onion"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "lemon"
+    ]
+   ],
+   "lock": 3
+  },
+  {
+   "pos": [
+    580,
+    740
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "lemon",
+     "carrot"
+    ],
+    [
+     "lemon",
+     "tomato"
+    ],
+    [
+     "onion",
+     "tomato"
+    ],
+    [
+     "onion",
+     "tomato"
+    ],
+    [
+     "lemon",
+     "lemon"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.56
+}

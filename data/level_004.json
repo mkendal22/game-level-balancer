@@ -1,0 +1,98 @@
+{
+ "name": "Yeşil Reyon",
+ "tier": "nefes",
+ "shape": "L",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "grape": 9,
+    "cucumber": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "apple": 3,
+    "orange": 9
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "orange",
+     "orange",
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    590
+   ],
+   "layers": [
+    [
+     "cucumber",
+     "orange",
+     "orange"
+    ],
+    [
+     "grape",
+     "grape",
+     "grape"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "apple",
+     "orange",
+     "orange"
+    ],
+    [
+     "apple",
+     "grape",
+     "grape"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "orange",
+     "cucumber",
+     "orange"
+    ],
+    [
+     "orange",
+     "apple",
+     "grape"
+    ],
+    [
+     "grape",
+     "grape",
+     "grape"
+    ]
+   ]
+  }
+ ],
+ "sim": 1.0
+}

@@ -1,0 +1,148 @@
+{
+ "name": "Taze Sergi",
+ "tier": "kolay",
+ "shape": "T",
+ "theme": "derin",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "apple": 21,
+    "strawberry": 12,
+    "broccoli": 15
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "onion": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "apple",
+     "onion",
+     "apple"
+    ],
+    [
+     "apple",
+     "apple",
+     "apple"
+    ],
+    [
+     "broccoli",
+     "broccoli",
+     "broccoli"
+    ],
+    [
+     "strawberry",
+     "apple",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    330
+   ],
+   "layers": [
+    [
+     "onion",
+     "strawberry",
+     "broccoli"
+    ],
+    [
+     "apple",
+     "apple",
+     "strawberry"
+    ],
+    [
+     "broccoli",
+     "broccoli",
+     "apple"
+    ],
+    [
+     "broccoli",
+     "apple",
+     "strawberry"
+    ],
+    [
+     "strawberry",
+     "strawberry",
+     "strawberry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "layers": [
+    [
+     "broccoli",
+     "apple",
+     "apple"
+    ],
+    [
+     "broccoli",
+     "onion",
+     "onion"
+    ],
+    [
+     "apple",
+     "apple",
+     "strawberry"
+    ],
+    [
+     "broccoli",
+     "onion",
+     "strawberry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "layers": [
+    [
+     "apple",
+     "apple",
+     "apple"
+    ],
+    [
+     "apple",
+     "apple",
+     "strawberry"
+    ],
+    [
+     "apple",
+     "broccoli",
+     "broccoli"
+    ],
+    [
+     "broccoli",
+     "apple",
+     "strawberry"
+    ],
+    [
+     "strawberry",
+     "onion",
+     "broccoli"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.94
+}

@@ -1,0 +1,110 @@
+{
+ "name": "Bereketli Bahçe",
+ "tier": "kolay",
+ "shape": "L",
+ "theme": "çok çeşit",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "broccoli": 3,
+    "onion": 6,
+    "grape": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "lemon": 3,
+    "orange": 6,
+    "cherry": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "cherry",
+     "grape",
+     "broccoli"
+    ],
+    [
+     "onion",
+     "grape",
+     "cherry"
+    ],
+    [
+     "orange",
+     "lemon",
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    590
+   ],
+   "layers": [
+    [
+     "grape",
+     "lemon",
+     "lemon"
+    ],
+    [
+     "orange",
+     "orange",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "orange",
+     "cherry",
+     "grape"
+    ],
+    [
+     "grape",
+     "onion",
+     "onion"
+    ],
+    [
+     "orange",
+     "grape",
+     "orange"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "cherry",
+     "cherry",
+     "cherry"
+    ],
+    [
+     "broccoli",
+     "onion",
+     "onion"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.8
+}

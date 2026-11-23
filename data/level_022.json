@@ -1,0 +1,79 @@
+{
+ "name": "Renkli Sokak",
+ "tier": "nefes",
+ "shape": "ikiz",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "eggplant": 3,
+    "orange": 3,
+    "lemon": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "cucumber": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    420
+   ],
+   "layers": [
+    [
+     "eggplant",
+     "lemon",
+     "eggplant"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    420
+   ],
+   "layers": [
+    [
+     "cucumber",
+     "cucumber",
+     "orange"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    740
+   ],
+   "layers": [
+    [
+     "lemon",
+     "eggplant",
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    740
+   ],
+   "layers": [
+    [
+     "orange",
+     "cucumber",
+     "orange"
+    ]
+   ],
+   "lock": 3
+  }
+ ],
+ "sim": 1.0
+}

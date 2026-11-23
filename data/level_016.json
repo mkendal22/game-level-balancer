@@ -1,0 +1,129 @@
+{
+ "name": "Güneşli Manav",
+ "tier": "orta",
+ "shape": "elmas",
+ "theme": "çok çeşit",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "broccoli": 6,
+    "cherry": 6,
+    "onion": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "corn": 6,
+    "eggplant": 3,
+    "pepper": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "eggplant",
+     "eggplant"
+    ],
+    [
+     "pepper~1",
+     "broccoli"
+    ],
+    [
+     "onion",
+     "eggplant"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    125,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "corn",
+     "cherry"
+    ],
+    [
+     "pepper",
+     "corn"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "corn",
+     "broccoli"
+    ],
+    [
+     "broccoli",
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cherry",
+     "corn"
+    ],
+    [
+     "cherry",
+     "corn"
+    ],
+    [
+     "cherry",
+     "corn"
+    ],
+    [
+     "",
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cherry",
+     "pepper"
+    ],
+    [
+     "broccoli",
+     "cherry"
+    ],
+    [
+     "broccoli",
+     "broccoli"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.5
+}

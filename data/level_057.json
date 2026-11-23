@@ -1,0 +1,240 @@
+{
+ "name": "Komşu Pazar",
+ "tier": "zor",
+ "shape": "köprü",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "grape": 3,
+    "carrot": 6,
+    "cucumber": 9
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "banana": 6,
+    "cherry": 12,
+    "strawberry": 12
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    117,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "grape"
+    ],
+    [
+     "cherry~1"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "grape"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    279,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "banana"
+    ],
+    [
+     "cherry"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "strawberry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    441,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "strawberry"
+    ],
+    [
+     "cherry"
+    ],
+    [
+     "cherry"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "cucumber?"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    603,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "grape"
+    ],
+    [
+     "cherry"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "banana"
+    ],
+    [
+     "carrot"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "layers": [
+    [
+     "carrot",
+     "banana",
+     "strawberry"
+    ],
+    [
+     "cherry",
+     "cherry",
+     "carrot"
+    ],
+    [
+     "cherry",
+     "carrot",
+     "carrot"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    117,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "strawberry"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "cherry"
+    ],
+    [
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    279,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "strawberry"
+    ],
+    [
+     "cherry"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    441,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "banana"
+    ],
+    [
+     "banana"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "carrot"
+    ],
+    [
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    603,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "strawberry"
+    ],
+    [
+     "banana"
+    ],
+    [
+     "cherry"
+    ],
+    [
+     "strawberry"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.12
+}

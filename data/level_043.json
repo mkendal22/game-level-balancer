@@ -1,0 +1,147 @@
+{
+ "name": "Taze Sergi",
+ "tier": "orta",
+ "shape": "ters piramit",
+ "theme": "kilitli",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "carrot": 3,
+    "pepper": 3,
+    "orange": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "mushroom": 6,
+    "cucumber": 18
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    125,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "mushroom",
+     "cucumber"
+    ],
+    [
+     "carrot",
+     "cucumber"
+    ],
+    [
+     "cucumber",
+     "cucumber~1"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "carrot",
+     "mushroom"
+    ],
+    [
+     "cucumber",
+     "cucumber"
+    ],
+    [
+     "orange",
+     "mushroom"
+    ]
+   ],
+   "lock": 4
+  },
+  {
+   "pos": [
+    595,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cucumber",
+     "cucumber"
+    ],
+    [
+     "mushroom",
+     "mushroom"
+    ],
+    [
+     "cucumber",
+     "orange?"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    200,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "carrot",
+     "cucumber"
+    ],
+    [
+     "cucumber",
+     "cucumber"
+    ],
+    [
+     "cucumber",
+     "cucumber"
+    ]
+   ],
+   "lock": 2
+  },
+  {
+   "pos": [
+    520,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "pepper",
+     "cucumber"
+    ],
+    [
+     "mushroom",
+     "cucumber~1"
+    ],
+    [
+     "orange",
+     "pepper?"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "layers": [
+    [
+     "cucumber",
+     "cucumber",
+     "pepper"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.44
+}

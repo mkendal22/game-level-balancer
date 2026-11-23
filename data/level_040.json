@@ -1,0 +1,225 @@
+{
+ "name": "Bakkal Tezgâh",
+ "tier": "zor",
+ "shape": "kuleler",
+ "theme": "poşet günü",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "grape": 3,
+    "broccoli": 9,
+    "carrot": 12
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "strawberry": 12,
+    "tomato": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    250,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "strawberry"
+    ],
+    [
+     "carrot"
+    ],
+    [
+     "broccoli"
+    ],
+    [
+     "tomato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    470,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "strawberry"
+    ],
+    [
+     "carrot"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "broccoli"
+    ],
+    [
+     "broccoli"
+    ],
+    [
+     "tomato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    117,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "strawberry~1"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "carrot"
+    ],
+    [
+     "carrot"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    279,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "broccoli"
+    ],
+    [
+     "strawberry?"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "broccoli"
+    ],
+    [
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    441,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "grape"
+    ],
+    [
+     "tomato~1"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "grape~1"
+    ],
+    [
+     "carrot"
+    ],
+    [
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    603,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "grape"
+    ],
+    [
+     "carrot"
+    ],
+    [
+     "carrot"
+    ],
+    [
+     "carrot"
+    ],
+    [
+     "strawberry?"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    250,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "carrot"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "carrot"
+    ],
+    [
+     "broccoli"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "strawberry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    470,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "strawberry"
+    ],
+    [
+     "carrot"
+    ],
+    [
+     "carrot"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "broccoli"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.48
+}

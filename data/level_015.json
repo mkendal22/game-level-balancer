@@ -1,0 +1,150 @@
+{
+ "name": "Bakkal Köşe",
+ "tier": "nefes",
+ "shape": "piramit",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "carrot": 12,
+    "strawberry": 3,
+    "banana": 12
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "lemon": 6,
+    "onion": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "banana",
+     "carrot"
+    ],
+    [
+     "carrot",
+     "banana",
+     "banana"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    200,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "lemon",
+     "lemon"
+    ],
+    [
+     "carrot",
+     "banana"
+    ],
+    [
+     "lemon",
+     "banana"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "strawberry",
+     "banana"
+    ],
+    [
+     "onion",
+     "onion"
+    ],
+    [
+     "banana",
+     "banana"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    125,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "carrot",
+     "carrot"
+    ],
+    [
+     "carrot",
+     "onion"
+    ],
+    [
+     "carrot",
+     "banana"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "banana",
+     "lemon"
+    ],
+    [
+     "carrot",
+     "banana"
+    ],
+    [
+     "lemon",
+     "carrot"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "strawberry",
+     "carrot"
+    ],
+    [
+     "banana",
+     "carrot"
+    ],
+    [
+     "carrot",
+     "lemon"
+    ]
+   ]
+  }
+ ],
+ "sim": 1.0
+}

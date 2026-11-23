@@ -1,0 +1,116 @@
+{
+ "name": "Taze Kasa",
+ "tier": "kolay",
+ "shape": "ikiz",
+ "theme": "poşet günü",
+ "tools": {
+  "slot": 2
+ },
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "lemon": 12,
+    "broccoli": 6,
+    "cherry": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "cucumber": 9
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    420
+   ],
+   "layers": [
+    [
+     "cucumber",
+     "cherry",
+     "lemon"
+    ],
+    [
+     "cucumber~1",
+     "lemon",
+     "cucumber?"
+    ],
+    [
+     "lemon",
+     "cherry",
+     "cucumber~1"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    420
+   ],
+   "layers": [
+    [
+     "broccoli",
+     "cherry",
+     "lemon"
+    ],
+    [
+     "broccoli",
+     "cucumber",
+     "lemon"
+    ],
+    [
+     "broccoli",
+     "cherry",
+     "broccoli"
+    ]
+   ],
+   "lock": 3
+  },
+  {
+   "pos": [
+    190,
+    740
+   ],
+   "layers": [
+    [
+     "lemon?",
+     "lemon",
+     "cherry"
+    ],
+    [
+     "lemon",
+     "lemon",
+     "lemon"
+    ],
+    [
+     "cucumber",
+     "lemon",
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    740
+   ],
+   "layers": [
+    [
+     "cucumber",
+     "cucumber",
+     "cucumber"
+    ],
+    [
+     "broccoli",
+     "lemon?",
+     "broccoli"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.78
+}

@@ -1,0 +1,118 @@
+{
+ "name": "Çeşme Köşe",
+ "tier": "kolay",
+ "shape": "kum saati",
+ "theme": "buz festivali",
+ "tools": {
+  "undo": 2
+ },
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "broccoli": 6,
+    "onion": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "orange": 9,
+    "eggplant": 9
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "onion",
+     "orange~1",
+     "orange~1"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    330
+   ],
+   "layers": [
+    [
+     "eggplant",
+     "broccoli",
+     "broccoli"
+    ],
+    [
+     "eggplant~1",
+     "onion",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "layers": [
+    [
+     "orange",
+     "eggplant",
+     "onion"
+    ],
+    [
+     "broccoli",
+     "orange",
+     "eggplant"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "eggplant",
+     "orange",
+     "onion"
+    ],
+    [
+     "broccoli",
+     "orange",
+     "eggplant"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "orange",
+     "eggplant",
+     "eggplant"
+    ],
+    [
+     "onion",
+     "orange",
+     "eggplant"
+    ],
+    [
+     "onion",
+     "orange",
+     "broccoli"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.92
+}

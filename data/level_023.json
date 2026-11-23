@@ -1,0 +1,104 @@
+{
+ "name": "Bayram Sergi",
+ "tier": "kolay",
+ "shape": "ters T",
+ "theme": "kilitli",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "cucumber": 3,
+    "broccoli": 6,
+    "cherry": 12
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "orange": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "layers": [
+    [
+     "broccoli",
+     "orange",
+     "broccoli"
+    ],
+    [
+     "cherry",
+     "cherry",
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "layers": [
+    [
+     "cucumber~1",
+     "broccoli",
+     "broccoli"
+    ],
+    [
+     "cherry",
+     "cherry",
+     "orange"
+    ],
+    [
+     "cherry",
+     "cherry",
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "broccoli",
+     "cucumber",
+     "cherry~1"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "cherry",
+     "cherry",
+     "orange"
+    ],
+    [
+     "cherry",
+     "broccoli",
+     "cucumber"
+    ],
+    [
+     "orange",
+     "orange",
+     "orange"
+    ]
+   ],
+   "lock": 2
+  }
+ ],
+ "sim": 0.78
+}

@@ -1,0 +1,99 @@
+{
+ "name": "Fırın Köşe",
+ "tier": "kolay",
+ "shape": "L",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "grape": 3,
+    "banana": 6,
+    "orange": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "apple": 12
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "grape",
+     "apple",
+     "apple"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    590
+   ],
+   "layers": [
+    [
+     "banana",
+     "grape",
+     "banana"
+    ],
+    [
+     "apple",
+     "banana",
+     "orange"
+    ]
+   ],
+   "lock": 3
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "apple",
+     "grape",
+     "orange"
+    ],
+    [
+     "apple",
+     "apple",
+     "apple"
+    ],
+    [
+     "banana",
+     "apple",
+     "banana"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "orange",
+     "apple",
+     "apple"
+    ],
+    [
+     "banana?",
+     "apple",
+     "apple"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.86
+}

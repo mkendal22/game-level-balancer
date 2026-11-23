@@ -1,0 +1,116 @@
+{
+ "name": "Fırın Tezgâh",
+ "tier": "zor",
+ "shape": "L",
+ "theme": "kilitli",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "cucumber": 6,
+    "apple": 3,
+    "pepper": 9
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "broccoli": 6,
+    "corn": 3,
+    "onion": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "cucumber",
+     "broccoli",
+     "pepper"
+    ],
+    [
+     "corn",
+     "cucumber",
+     "onion"
+    ],
+    [
+     "onion",
+     "cucumber",
+     "pepper"
+    ]
+   ],
+   "lock": 3
+  },
+  {
+   "pos": [
+    190,
+    590
+   ],
+   "layers": [
+    [
+     "broccoli",
+     "corn",
+     "broccoli"
+    ],
+    [
+     "broccoli~1",
+     "pepper",
+     "apple"
+    ],
+    [
+     "onion",
+     "pepper?",
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "cucumber",
+     "broccoli",
+     "pepper"
+    ],
+    [
+     "onion",
+     "onion",
+     "apple"
+    ],
+    [
+     "pepper~1",
+     "onion",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "pepper",
+     "corn?",
+     "pepper"
+    ],
+    [
+     "cucumber",
+     "pepper",
+     "apple~1"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.2
+}

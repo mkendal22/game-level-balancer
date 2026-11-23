@@ -1,0 +1,125 @@
+{
+ "name": "Çıtır Sergi",
+ "tier": "nefes",
+ "shape": "kum saati",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "lemon": 9,
+    "apple": 12
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "banana": 15
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "banana",
+     "lemon",
+     "banana"
+    ],
+    [
+     "banana",
+     "banana",
+     "banana"
+    ],
+    [
+     "lemon",
+     "lemon",
+     "apple"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    330
+   ],
+   "layers": [
+    [
+     "lemon",
+     "lemon",
+     "banana"
+    ],
+    [
+     "banana",
+     "banana",
+     "apple"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "layers": [
+    [
+     "apple",
+     "apple",
+     "lemon"
+    ],
+    [
+     "banana",
+     "apple",
+     "banana"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "banana",
+     "lemon",
+     "lemon"
+    ],
+    [
+     "banana",
+     "apple",
+     "apple"
+    ],
+    [
+     "apple",
+     "apple",
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "banana",
+     "banana",
+     "apple"
+    ],
+    [
+     "apple",
+     "banana",
+     "apple"
+    ]
+   ]
+  }
+ ],
+ "sim": 1.0
+}

@@ -1,0 +1,145 @@
+{
+ "name": "Güneşli Sepet",
+ "tier": "kolay",
+ "shape": "ters piramit",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "orange": 3,
+    "potato": 12,
+    "mushroom": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "cherry": 6,
+    "grape": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    125,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cherry",
+     "grape"
+    ],
+    [
+     "potato",
+     "potato"
+    ],
+    [
+     "potato",
+     "potato"
+    ],
+    [
+     "potato",
+     "grape"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cherry",
+     "mushroom"
+    ],
+    [
+     "orange?",
+     "potato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "mushroom",
+     "potato"
+    ],
+    [
+     "potato",
+     "grape"
+    ],
+    [
+     "potato",
+     "potato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    200,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "mushroom",
+     "mushroom"
+    ],
+    [
+     "orange",
+     "mushroom"
+    ],
+    [
+     "cherry~1",
+     "grape"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cherry",
+     "cherry"
+    ],
+    [
+     "orange?",
+     "grape"
+    ],
+    [
+     "grape",
+     "potato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "layers": [
+    [
+     "mushroom~1",
+     "cherry",
+     "potato"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.94
+}

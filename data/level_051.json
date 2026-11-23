@@ -1,0 +1,180 @@
+{
+ "name": "Hasat Sepet",
+ "tier": "kolay",
+ "shape": "pencere",
+ "theme": "poşet günü",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "carrot": 9,
+    "tomato": 12,
+    "strawberry": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "mushroom": 12,
+    "eggplant": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    140,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "eggplant",
+     "carrot"
+    ],
+    [
+     "mushroom?",
+     "mushroom"
+    ],
+    [
+     "eggplant",
+     "mushroom"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "mushroom?"
+    ],
+    [
+     "tomato~1"
+    ],
+    [
+     "carrot~1"
+    ],
+    [
+     "carrot"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    580,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "mushroom",
+     "mushroom"
+    ],
+    [
+     "strawberry",
+     "carrot"
+    ],
+    [
+     "mushroom~1",
+     "mushroom"
+    ],
+    [
+     "tomato",
+     "strawberry?"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "layers": [
+    [
+     "tomato",
+     "tomato",
+     "eggplant"
+    ],
+    [
+     "tomato",
+     "carrot",
+     "tomato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    140,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "tomato",
+     "carrot"
+    ],
+    [
+     "carrot",
+     "tomato"
+    ],
+    [
+     "mushroom",
+     "tomato"
+    ],
+    [
+     "tomato",
+     "strawberry?"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "eggplant"
+    ],
+    [
+     "carrot?"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "eggplant"
+    ]
+   ],
+   "gold": 40
+  },
+  {
+   "pos": [
+    580,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "mushroom",
+     "eggplant"
+    ],
+    [
+     "tomato",
+     "mushroom"
+    ],
+    [
+     "mushroom",
+     "carrot"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.82
+}

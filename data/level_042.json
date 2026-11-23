@@ -1,0 +1,180 @@
+{
+ "name": "Komşu Sokak",
+ "tier": "kolay",
+ "shape": "yıldız",
+ "theme": "geniş",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "banana": 3,
+    "apple": 6,
+    "pepper": 12
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "strawberry": 6,
+    "broccoli": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    90,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "pepper"
+    ],
+    [
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "banana",
+     "apple"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    630,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "apple"
+    ],
+    [
+     "strawberry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    125,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "apple",
+     "broccoli"
+    ],
+    [
+     "banana~1",
+     "pepper?"
+    ],
+    [
+     "broccoli",
+     "strawberry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "strawberry?",
+     "strawberry"
+    ],
+    [
+     "strawberry",
+     "apple"
+    ],
+    [
+     "pepper",
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "pepper",
+     "pepper"
+    ],
+    [
+     "pepper~1",
+     "pepper"
+    ],
+    [
+     "pepper",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    90,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "apple?"
+    ],
+    [
+     "apple"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "layers": [
+    [
+     "broccoli",
+     "banana",
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    630,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "broccoli"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "pepper"
+    ]
+   ],
+   "lock": 2
+  }
+ ],
+ "sim": 0.92
+}

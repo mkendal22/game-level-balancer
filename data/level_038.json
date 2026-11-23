@@ -1,0 +1,105 @@
+{
+ "name": "Bayram Kasa",
+ "tier": "orta",
+ "shape": "T",
+ "theme": "buz festivali",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "mushroom": 6,
+    "pepper": 6,
+    "watermelon": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "cherry": 3,
+    "carrot": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "mushroom",
+     "mushroom",
+     "carrot"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    330
+   ],
+   "layers": [
+    [
+     "mushroom",
+     "pepper",
+     "watermelon?"
+    ],
+    [
+     "pepper",
+     "carrot~1",
+     "cherry"
+    ],
+    [
+     "carrot",
+     "pepper",
+     "watermelon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "layers": [
+    [
+     "cherry",
+     "pepper",
+     "pepper"
+    ],
+    [
+     "watermelon",
+     "pepper",
+     "carrot"
+    ]
+   ],
+   "lock": 3
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "layers": [
+    [
+     "mushroom",
+     "mushroom",
+     "cherry"
+    ],
+    [
+     "carrot~1",
+     "mushroom",
+     "watermelon"
+    ],
+    [
+     "carrot~1",
+     "watermelon",
+     "watermelon"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.52
+}

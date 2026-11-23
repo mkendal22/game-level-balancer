@@ -1,0 +1,79 @@
+{
+ "name": "Neşeli Manav",
+ "tier": "nefes",
+ "shape": "L",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "lemon": 3,
+    "strawberry": 3,
+    "eggplant": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "corn": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "eggplant",
+     "strawberry"
+    ]
+   ],
+   "lock": 3
+  },
+  {
+   "pos": [
+    190,
+    590
+   ],
+   "layers": [
+    [
+     "lemon",
+     "eggplant",
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "lemon",
+     "corn",
+     "strawberry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "eggplant",
+     "corn",
+     "corn"
+    ]
+   ]
+  }
+ ],
+ "sim": 1.0
+}

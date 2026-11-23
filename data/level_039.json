@@ -1,0 +1,208 @@
+{
+ "name": "Bereketli Bahçe",
+ "tier": "orta",
+ "shape": "yan yana",
+ "theme": "çok çeşit",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "grape": 6,
+    "tomato": 9,
+    "watermelon": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "lemon": 12,
+    "broccoli": 3,
+    "eggplant": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    85,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "lemon"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "watermelon"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "grape"
+    ]
+   ],
+   "lock": 3
+  },
+  {
+   "pos": [
+    232,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "eggplant"
+    ],
+    [
+     "tomato?"
+    ],
+    [
+     "watermelon~1"
+    ],
+    [
+     "broccoli"
+    ],
+    [
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    330
+   ],
+   "layers": [
+    [
+     "tomato~1",
+     "lemon",
+     "lemon"
+    ],
+    [
+     "watermelon",
+     "grape?",
+     "grape"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    590
+   ],
+   "layers": [
+    [
+     "tomato",
+     "grape",
+     "grape"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    488,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "lemon"
+    ],
+    [
+     "watermelon"
+    ],
+    [
+     "lemon"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    635,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "lemon"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "watermelon"
+    ],
+    [
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    85,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "watermelon"
+    ],
+    [
+     "broccoli"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "eggplant"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    232,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "lemon"
+    ],
+    [
+     "eggplant?"
+    ],
+    [
+     "grape"
+    ],
+    [
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "tomato",
+     "lemon",
+     "broccoli"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.54
+}

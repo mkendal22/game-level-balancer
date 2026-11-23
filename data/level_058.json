@@ -1,0 +1,199 @@
+{
+ "name": "Taze Kasa",
+ "tier": "orta",
+ "shape": "yan yana",
+ "theme": "kilitli",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "banana": 12,
+    "strawberry": 3,
+    "cucumber": 12
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "pepper": 3,
+    "orange": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    85,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "strawberry"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "banana"
+    ],
+    [
+     "orange"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    232,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "cucumber"
+    ],
+    [
+     "orange"
+    ],
+    [
+     "banana"
+    ],
+    [
+     "cucumber"
+    ]
+   ],
+   "lock": 4
+  },
+  {
+   "pos": [
+    530,
+    330
+   ],
+   "layers": [
+    [
+     "banana~1",
+     "banana",
+     "banana"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    590
+   ],
+   "layers": [
+    [
+     "orange",
+     "cucumber",
+     "banana"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    488,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "pepper"
+    ],
+    [
+     "strawberry"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    635,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "cucumber"
+    ],
+    [
+     "orange"
+    ],
+    [
+     "orange"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    85,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "banana"
+    ],
+    [
+     "banana"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    232,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "cucumber?"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "orange"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "cucumber",
+     "banana",
+     "cucumber"
+    ],
+    [
+     "banana",
+     "banana",
+     "banana"
+    ]
+   ],
+   "lock": 2
+  }
+ ],
+ "sim": 0.52
+}

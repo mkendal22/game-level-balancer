@@ -1,0 +1,89 @@
+{
+ "name": "Bayram Kasa",
+ "tier": "nefes",
+ "shape": "ters T",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "pepper": 3,
+    "lemon": 3,
+    "cucumber": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "strawberry": 3,
+    "cherry": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "layers": [
+    [
+     "cucumber",
+     "strawberry",
+     "pepper"
+    ],
+    [
+     "cucumber",
+     "cucumber",
+     "cucumber"
+    ],
+    [
+     "lemon",
+     "lemon",
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "layers": [
+    [
+     "pepper",
+     "pepper",
+     "strawberry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "cucumber",
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "cherry",
+     "cherry",
+     "cherry"
+    ]
+   ]
+  }
+ ],
+ "sim": 1.0
+}

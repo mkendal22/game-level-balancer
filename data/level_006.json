@@ -1,0 +1,103 @@
+{
+ "name": "Hasat Manav",
+ "tier": "kolay",
+ "shape": "L",
+ "theme": "buz festivali",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "tomato": 6,
+    "orange": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "mushroom": 9,
+    "cherry": 9
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "tomato",
+     "mushroom",
+     "cherry"
+    ],
+    [
+     "tomato",
+     "mushroom",
+     "orange"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    590
+   ],
+   "layers": [
+    [
+     "cherry~1",
+     "mushroom",
+     "orange"
+    ],
+    [
+     "cherry",
+     "tomato",
+     "mushroom"
+    ],
+    [
+     "orange",
+     "tomato",
+     "mushroom"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "cherry",
+     "tomato~1",
+     "cherry"
+    ],
+    [
+     "cherry~1",
+     "cherry",
+     "mushroom"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "mushroom",
+     "cherry",
+     "mushroom"
+    ],
+    [
+     "mushroom",
+     "cherry",
+     "tomato"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.86
+}

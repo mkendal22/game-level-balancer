@@ -1,0 +1,218 @@
+{
+ "name": "Avlu Köşe",
+ "tier": "kolay",
+ "shape": "yıldız",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "tomato": 15,
+    "eggplant": 15,
+    "lemon": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "cucumber": 6,
+    "mushroom": 9
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    90,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "eggplant"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "mushroom"
+    ],
+    [
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "layers": [
+    [
+     "mushroom",
+     "eggplant",
+     "eggplant"
+    ],
+    [
+     "cucumber",
+     "tomato",
+     "mushroom"
+    ],
+    [
+     "cucumber",
+     "mushroom",
+     "tomato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    630,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "mushroom"
+    ],
+    [
+     "eggplant"
+    ],
+    [
+     "tomato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    125,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "tomato",
+     "eggplant"
+    ],
+    [
+     "tomato",
+     "tomato"
+    ],
+    [
+     "tomato",
+     "tomato"
+    ],
+    [
+     "eggplant",
+     ""
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "eggplant",
+     "lemon"
+    ],
+    [
+     "mushroom",
+     "tomato"
+    ],
+    [
+     "lemon?",
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "eggplant",
+     "lemon"
+    ],
+    [
+     "tomato",
+     "tomato"
+    ],
+    [
+     "cucumber",
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    90,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "eggplant"
+    ],
+    [
+     "eggplant"
+    ],
+    [
+     "mushroom"
+    ],
+    [
+     "tomato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "layers": [
+    [
+     "eggplant",
+     "mushroom",
+     "eggplant~1"
+    ],
+    [
+     "cucumber",
+     "tomato",
+     "lemon"
+    ],
+    [
+     "mushroom",
+     "tomato",
+     "eggplant~1"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    630,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "eggplant"
+    ],
+    [
+     "eggplant"
+    ],
+    [
+     "cucumber"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.88
+}

@@ -1,0 +1,110 @@
+{
+ "name": "Komşu Sokak",
+ "tier": "kolay",
+ "shape": "L",
+ "theme": "çok çeşit",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "tomato": 6,
+    "watermelon": 3,
+    "strawberry": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "cherry": 3,
+    "broccoli": 3,
+    "corn": 9
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "watermelon",
+     "corn",
+     "corn"
+    ],
+    [
+     "watermelon",
+     "cherry",
+     "cherry"
+    ],
+    [
+     "broccoli",
+     "broccoli",
+     "watermelon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    590
+   ],
+   "layers": [
+    [
+     "corn",
+     "corn",
+     "corn"
+    ],
+    [
+     "tomato",
+     "strawberry",
+     "strawberry~1"
+    ],
+    [
+     "tomato",
+     "strawberry",
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "strawberry",
+     "corn"
+    ],
+    [
+     "broccoli",
+     "tomato",
+     "tomato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "corn",
+     "corn",
+     "strawberry"
+    ],
+    [
+     "tomato",
+     "tomato",
+     "corn"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.8
+}

@@ -1,0 +1,141 @@
+{
+ "name": "Mahalle Tezgâh",
+ "tier": "orta",
+ "shape": "klasik",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "strawberry": 15,
+    "pepper": 6,
+    "watermelon": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "mushroom": 9,
+    "orange": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "mushroom",
+     "pepper",
+     "mushroom"
+    ],
+    [
+     "strawberry",
+     "pepper",
+     "watermelon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    330
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "strawberry",
+     "orange"
+    ],
+    [
+     "strawberry",
+     "strawberry~1",
+     "strawberry"
+    ],
+    [
+     "orange",
+     "mushroom",
+     "watermelon?"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    590
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "pepper",
+     "strawberry"
+    ],
+    [
+     "strawberry",
+     "strawberry",
+     "strawberry"
+    ]
+   ],
+   "gold": 40
+  },
+  {
+   "pos": [
+    530,
+    590
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "watermelon",
+     "strawberry"
+    ],
+    [
+     "mushroom",
+     "mushroom",
+     "mushroom"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    850
+   ],
+   "layers": [
+    [
+     "watermelon",
+     "pepper",
+     "strawberry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "pepper~1",
+     "watermelon",
+     "orange"
+    ],
+    [
+     "mushroom~1",
+     "watermelon",
+     "mushroom"
+    ],
+    [
+     "strawberry",
+     "mushroom",
+     "pepper"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.58
+}

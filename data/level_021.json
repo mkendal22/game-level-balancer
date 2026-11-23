@@ -1,0 +1,108 @@
+{
+ "name": "Hasat Sepet",
+ "tier": "nefes",
+ "shape": "elmas",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "pepper": 3,
+    "mushroom": 6,
+    "strawberry": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "potato": 3,
+    "cherry": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "potato",
+     "strawberry"
+    ],
+    [
+     "mushroom",
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    125,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "pepper",
+     "strawberry"
+    ],
+    [
+     "mushroom",
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "pepper",
+     "mushroom"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "pepper",
+     "potato"
+    ],
+    [
+     "mushroom",
+     "mushroom"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "strawberry",
+     "potato"
+    ],
+    [
+     "mushroom",
+     "cherry"
+    ]
+   ]
+  }
+ ],
+ "sim": 1.0
+}

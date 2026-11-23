@@ -1,0 +1,90 @@
+{
+ "name": "Çıtır Sergi",
+ "tier": "orta",
+ "shape": "merdiven 2",
+ "theme": "poşet günü",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "apple": 3,
+    "pepper": 3,
+    "carrot": 9
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "orange": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    200,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "pepper",
+     "carrot"
+    ],
+    [
+     "carrot",
+     "orange"
+    ],
+    [
+     "pepper",
+     "apple"
+    ]
+   ],
+   "lock": 2
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "orange",
+     "apple~1"
+    ],
+    [
+     "carrot",
+     "carrot"
+    ],
+    [
+     "carrot",
+     "carrot?"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "orange?",
+     "carrot~1"
+    ],
+    [
+     "pepper",
+     "carrot"
+    ],
+    [
+     "apple",
+     "carrot"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.4
+}

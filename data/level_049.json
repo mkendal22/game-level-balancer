@@ -1,0 +1,212 @@
+{
+ "name": "Yeşil Bahçe",
+ "tier": "orta",
+ "shape": "yan yana",
+ "theme": "buz festivali",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "cucumber": 12,
+    "cherry": 9,
+    "potato": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "onion": 6,
+    "lemon": 12
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    85,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "cucumber"
+    ],
+    [
+     "lemon"
+    ],
+    [
+     "cherry"
+    ],
+    [
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    232,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "cherry"
+    ],
+    [
+     "cherry~1"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    330
+   ],
+   "layers": [
+    [
+     "onion",
+     "cucumber",
+     "cucumber"
+    ],
+    [
+     "cucumber",
+     "potato",
+     "lemon"
+    ]
+   ],
+   "lock": 3
+  },
+  {
+   "pos": [
+    190,
+    590
+   ],
+   "layers": [
+    [
+     "cucumber~1",
+     "cherry~1",
+     "lemon"
+    ],
+    [
+     "onion",
+     "cucumber",
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    488,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "cherry~1"
+    ],
+    [
+     "lemon"
+    ],
+    [
+     "lemon"
+    ],
+    [
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    635,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "cherry"
+    ],
+    [
+     "onion~1"
+    ],
+    [
+     "cucumber~1"
+    ],
+    [
+     "lemon"
+    ],
+    [
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    85,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "lemon"
+    ],
+    [
+     "lemon"
+    ],
+    [
+     "onion"
+    ],
+    [
+     "lemon~1"
+    ],
+    [
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    232,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "cucumber"
+    ],
+    [
+     "potato"
+    ],
+    [
+     "potato~1"
+    ],
+    [
+     "cherry"
+    ],
+    [
+     "cherry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "lemon",
+     "lemon~1",
+     "lemon~1"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.56
+}

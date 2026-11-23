@@ -1,0 +1,181 @@
+{
+ "name": "Avlu Tezgâh",
+ "tier": "zor",
+ "shape": "piramit",
+ "theme": "buz festivali",
+ "tools": {
+  "shuffle": 2
+ },
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "pepper": 12,
+    "strawberry": 6,
+    "carrot": 18
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "tomato": 3,
+    "broccoli": 12
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "layers": [
+    [
+     "carrot",
+     "pepper",
+     "pepper"
+    ],
+    [
+     "pepper~1",
+     "tomato",
+     "carrot"
+    ],
+    [
+     "carrot",
+     "pepper",
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    200,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "broccoli",
+     "broccoli"
+    ],
+    [
+     "carrot",
+     "pepper"
+    ],
+    [
+     "strawberry",
+     "strawberry"
+    ],
+    [
+     "carrot",
+     "carrot"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "carrot",
+     "carrot"
+    ],
+    [
+     "carrot",
+     "carrot"
+    ],
+    [
+     "broccoli~1",
+     "broccoli"
+    ],
+    [
+     "pepper",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    125,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "pepper",
+     "carrot"
+    ],
+    [
+     "strawberry",
+     "carrot"
+    ],
+    [
+     "broccoli",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "strawberry",
+     "carrot"
+    ],
+    [
+     "carrot",
+     "broccoli"
+    ],
+    [
+     "carrot",
+     "strawberry"
+    ],
+    [
+     "broccoli",
+     "pepper"
+    ],
+    [
+     "broccoli",
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "tomato",
+     "pepper"
+    ],
+    [
+     "carrot~1",
+     "carrot"
+    ],
+    [
+     "strawberry",
+     "pepper"
+    ],
+    [
+     "broccoli",
+     "broccoli"
+    ],
+    [
+     "tomato",
+     "carrot"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.38
+}

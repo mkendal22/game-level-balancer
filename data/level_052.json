@@ -1,0 +1,252 @@
+{
+ "name": "Renkli Sokak",
+ "tier": "nefes",
+ "shape": "çit",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "eggplant": 9,
+    "pepper": 12,
+    "tomato": 15
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "onion": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    96,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "tomato"
+    ],
+    [
+     "joker"
+    ],
+    [
+     "eggplant"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    228,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "tomato"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "tomato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "tomato"
+    ],
+    [
+     "onion"
+    ],
+    [
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    492,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "tomato"
+    ],
+    [
+     "eggplant"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    624,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "tomato"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    200,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "tomato",
+     "tomato"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "tomato",
+     "tomato"
+    ],
+    [
+     "pepper",
+     "pepper"
+    ],
+    [
+     "eggplant",
+     "eggplant"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    96,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "tomato"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    228,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "tomato"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "tomato"
+    ],
+    [
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "onion"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "eggplant"
+    ],
+    [
+     "eggplant"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    492,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "tomato"
+    ],
+    [
+     "eggplant"
+    ],
+    [
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    624,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "onion"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "eggplant"
+    ],
+    [
+     "pepper"
+    ]
+   ]
+  }
+ ],
+ "sim": 1.0
+}

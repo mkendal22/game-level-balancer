@@ -1,0 +1,90 @@
+{
+ "name": "Çıtır Kasa",
+ "tier": "orta",
+ "shape": "merdiven 2",
+ "theme": "buz festivali",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "apple": 3,
+    "pepper": 3,
+    "lemon": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "tomato": 3,
+    "banana": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    200,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "banana",
+     "lemon~1"
+    ],
+    [
+     "lemon",
+     "apple"
+    ],
+    [
+     "banana",
+     "tomato~1"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "apple",
+     "tomato~1"
+    ],
+    [
+     "pepper~1",
+     "lemon"
+    ],
+    [
+     "pepper",
+     "lemon~1"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "lemon",
+     "tomato~1"
+    ],
+    [
+     "pepper~1",
+     "apple"
+    ],
+    [
+     "banana~1",
+     "lemon"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.54
+}

@@ -1,0 +1,77 @@
+{
+ "name": "Altın Sokak",
+ "tier": "nefes",
+ "shape": "ikiz",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "watermelon": 3,
+    "cucumber": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "corn": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    420
+   ],
+   "layers": [
+    [
+     "cucumber",
+     "watermelon",
+     "corn"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    420
+   ],
+   "layers": [
+    [
+     "cucumber",
+     "watermelon",
+     "corn"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    740
+   ],
+   "layers": [
+    [
+     "corn",
+     "cucumber",
+     "corn"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    740
+   ],
+   "layers": [
+    [
+     "corn",
+     "corn",
+     "watermelon"
+    ]
+   ]
+  }
+ ],
+ "sim": 1.0
+}

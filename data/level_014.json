@@ -1,0 +1,133 @@
+{
+ "name": "Tatlı Reyon",
+ "tier": "orta",
+ "shape": "elmas",
+ "theme": "çok çeşit",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "eggplant": 9,
+    "cherry": 3,
+    "lemon": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "broccoli": 3,
+    "mushroom": 6,
+    "apple": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "lemon",
+     "eggplant"
+    ],
+    [
+     "lemon",
+     "lemon"
+    ],
+    [
+     "cherry",
+     "eggplant"
+    ],
+    [
+     "eggplant",
+     "broccoli~1"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    125,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "lemon",
+     "mushroom"
+    ],
+    [
+     "eggplant",
+     "lemon"
+    ],
+    [
+     "mushroom",
+     "mushroom"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "eggplant",
+     "apple"
+    ],
+    [
+     "eggplant",
+     "eggplant"
+    ],
+    [
+     "cherry",
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "broccoli",
+     "mushroom"
+    ],
+    [
+     "cherry",
+     "mushroom"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "apple",
+     "eggplant"
+    ],
+    [
+     "eggplant",
+     "mushroom"
+    ],
+    [
+     "apple~1",
+     "broccoli"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.54
+}

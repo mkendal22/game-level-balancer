@@ -1,0 +1,146 @@
+{
+ "name": "Yeşil Bahçe",
+ "tier": "orta",
+ "shape": "elmas",
+ "theme": "derin",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "corn": 6,
+    "strawberry": 15,
+    "potato": 9
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "watermelon": 12
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    420
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "watermelon",
+     "watermelon"
+    ],
+    [
+     "strawberry",
+     "watermelon"
+    ],
+    [
+     "strawberry",
+     "strawberry"
+    ],
+    [
+     "strawberry",
+     "strawberry"
+    ],
+    [
+     "watermelon",
+     "watermelon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    125,
+    740
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "strawberry",
+     "strawberry"
+    ],
+    [
+     "corn",
+     "potato"
+    ],
+    [
+     "potato",
+     "watermelon"
+    ],
+    [
+     "potato",
+     "potato"
+    ],
+    [
+     "corn",
+     "strawberry"
+    ],
+    [
+     "strawberry",
+     "watermelon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    740
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "strawberry",
+     "corn"
+    ],
+    [
+     "watermelon",
+     "potato"
+    ],
+    [
+     "potato",
+     "strawberry"
+    ],
+    [
+     "corn",
+     "corn"
+    ],
+    [
+     "corn~1",
+     "potato~1"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    740
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "watermelon",
+     "strawberry"
+    ],
+    [
+     "watermelon",
+     "strawberry"
+    ],
+    [
+     "potato",
+     "watermelon"
+    ],
+    [
+     "strawberry",
+     "watermelon"
+    ],
+    [
+     "potato",
+     "strawberry"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.52
+}

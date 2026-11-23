@@ -1,0 +1,91 @@
+{
+ "name": "Bereketli Reyon",
+ "tier": "kolay",
+ "shape": "dev",
+ "theme": "buz festivali",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "corn": 3,
+    "onion": 3,
+    "banana": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "eggplant": 3,
+    "apple": 9
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    420
+   ],
+   "layers": [
+    [
+     "apple",
+     "banana",
+     "apple"
+    ],
+    [
+     "apple",
+     "apple",
+     "apple"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    740
+   ],
+   "layers": [
+    [
+     "banana",
+     "corn",
+     "banana~1"
+    ],
+    [
+     "apple",
+     "corn",
+     "corn"
+    ],
+    [
+     "banana",
+     "banana~1",
+     "apple"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    740
+   ],
+   "layers": [
+    [
+     "eggplant",
+     "eggplant~1",
+     "banana"
+    ],
+    [
+     "onion",
+     "onion",
+     "onion"
+    ],
+    [
+     "eggplant",
+     "apple",
+     "apple"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.88
+}

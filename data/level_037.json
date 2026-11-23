@@ -1,0 +1,150 @@
+{
+ "name": "Renkli Pazar",
+ "tier": "kolay",
+ "shape": "dalga",
+ "theme": "çok çeşit",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "grape": 9,
+    "cucumber": 3,
+    "pepper": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "lemon": 6,
+    "onion": 6,
+    "eggplant": 6
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    240,
+    330
+   ],
+   "layers": [
+    [
+     "eggplant",
+     "lemon",
+     "grape"
+    ],
+    [
+     "grape",
+     "grape",
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    580,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "eggplant"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "onion"
+    ],
+    [
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    140,
+    590
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "grape"
+    ],
+    [
+     "grape"
+    ],
+    [
+     "onion"
+    ],
+    [
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    480,
+    590
+   ],
+   "layers": [
+    [
+     "grape",
+     "pepper~1",
+     "grape"
+    ],
+    [
+     "eggplant",
+     "onion",
+     "lemon"
+    ],
+    [
+     "grape",
+     "eggplant",
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    240,
+    850
+   ],
+   "layers": [
+    [
+     "eggplant",
+     "cucumber",
+     "grape"
+    ],
+    [
+     "pepper",
+     "lemon",
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    580,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "eggplant"
+    ],
+    [
+     "onion"
+    ],
+    [
+     "cucumber"
+    ],
+    [
+     "pepper"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.84
+}

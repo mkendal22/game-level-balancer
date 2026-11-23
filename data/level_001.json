@@ -1,0 +1,64 @@
+{
+ "name": "Güneşli Sepet",
+ "tier": "nefes",
+ "shape": "dev",
+ "theme": "normal",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "corn": 3,
+    "lemon": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "mushroom": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    420
+   ],
+   "layers": [
+    [
+     "lemon",
+     "mushroom",
+     "corn"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    190,
+    740
+   ],
+   "layers": [
+    [
+     "mushroom",
+     "lemon",
+     "lemon"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    740
+   ],
+   "layers": [
+    [
+     "mushroom",
+     "corn",
+     "corn"
+    ]
+   ]
+  }
+ ],
+ "sim": 1.0
+}

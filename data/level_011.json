@@ -1,0 +1,119 @@
+{
+ "name": "Neşeli Sepet",
+ "tier": "kolay",
+ "shape": "elmas",
+ "theme": "geniş",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "cucumber": 6,
+    "tomato": 9,
+    "strawberry": 6
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "carrot": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "carrot",
+     "cucumber"
+    ],
+    [
+     "tomato",
+     "tomato"
+    ],
+    [
+     "strawberry",
+     "carrot"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    125,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "strawberry",
+     "strawberry"
+    ],
+    [
+     "cucumber",
+     "strawberry"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "carrot",
+     "tomato"
+    ],
+    [
+     "tomato",
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    590
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "tomato",
+     "cucumber"
+    ],
+    [
+     "strawberry",
+     "strawberry"
+    ],
+    [
+     "tomato",
+     "cucumber"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "cucumber",
+     "tomato"
+    ],
+    [
+     "tomato",
+     "tomato"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.94
+}

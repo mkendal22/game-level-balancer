@@ -1,0 +1,76 @@
+{
+ "name": "Mahalle Köşe",
+ "tier": "kolay",
+ "shape": "merdiven",
+ "theme": "kilitli",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "broccoli": 3,
+    "corn": 6,
+    "onion": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "orange": 3
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    190,
+    330
+   ],
+   "layers": [
+    [
+     "orange",
+     "onion",
+     "corn"
+    ],
+    [
+     "broccoli",
+     "broccoli",
+     "corn"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "layers": [
+    [
+     "orange",
+     "corn",
+     "corn"
+    ],
+    [
+     "corn",
+     "broccoli",
+     "onion"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    530,
+    850
+   ],
+   "layers": [
+    [
+     "onion",
+     "corn",
+     "orange"
+    ]
+   ],
+   "lock": 2
+  }
+ ],
+ "sim": 0.94
+}

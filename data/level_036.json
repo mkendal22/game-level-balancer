@@ -1,0 +1,167 @@
+{
+ "name": "Hasat Manav",
+ "tier": "kolay",
+ "shape": "ters piramit",
+ "theme": "derin",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "pepper": 12,
+    "corn": 18,
+    "carrot": 9
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "tomato": 9
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    125,
+    420
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "pepper",
+     "carrot"
+    ],
+    [
+     "pepper",
+     "corn"
+    ],
+    [
+     "corn",
+     "pepper"
+    ],
+    [
+     "tomato",
+     "corn"
+    ],
+    [
+     "tomato",
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    420
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "corn",
+     "corn"
+    ],
+    [
+     "corn",
+     "corn?"
+    ],
+    [
+     "tomato",
+     "carrot~1"
+    ],
+    [
+     "tomato",
+     "carrot"
+    ],
+    [
+     "corn",
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    595,
+    420
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "pepper",
+     "corn"
+    ],
+    [
+     "corn",
+     "pepper"
+    ],
+    [
+     "corn",
+     "pepper"
+    ],
+    [
+     "carrot",
+     "carrot"
+    ],
+    [
+     "tomato",
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    200,
+    740
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "carrot",
+     "corn"
+    ],
+    [
+     "pepper",
+     "carrot"
+    ],
+    [
+     "corn",
+     "tomato"
+    ],
+    [
+     "tomato",
+     "corn"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    520,
+    740
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "corn",
+     "pepper"
+    ],
+    [
+     "corn",
+     "carrot"
+    ],
+    [
+     "tomato",
+     "corn"
+    ],
+    [
+     "carrot",
+     "pepper"
+    ],
+    [
+     "corn",
+     "tomato"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.9
+}

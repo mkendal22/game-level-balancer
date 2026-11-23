@@ -1,0 +1,171 @@
+{
+ "name": "Bayram Sergi",
+ "tier": "kolay",
+ "shape": "pencere",
+ "theme": "kilitli",
+ "tools": {},
+ "customers": [
+  {
+   "id": "c0",
+   "list": {
+    "strawberry": 3,
+    "pepper": 9,
+    "apple": 3
+   }
+  },
+  {
+   "id": "c1",
+   "list": {
+    "broccoli": 9,
+    "banana": 12
+   }
+  }
+ ],
+ "shelves": [
+  {
+   "pos": [
+    140,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "strawberry",
+     "broccoli"
+    ],
+    [
+     "broccoli",
+     "pepper"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    330
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "banana"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "pepper"
+    ],
+    [
+     "broccoli"
+    ]
+   ],
+   "gold": 50,
+   "lock": 3
+  },
+  {
+   "pos": [
+    580,
+    330
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "broccoli",
+     "pepper"
+    ],
+    [
+     "broccoli",
+     "apple"
+    ],
+    [
+     "broccoli?",
+     "banana"
+    ],
+    [
+     "broccoli",
+     ""
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    590
+   ],
+   "layers": [
+    [
+     "strawberry",
+     "banana",
+     "pepper"
+    ],
+    [
+     "banana",
+     "banana",
+     "banana"
+    ]
+   ],
+   "lock": 5
+  },
+  {
+   "pos": [
+    140,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "pepper",
+     "banana"
+    ],
+    [
+     "banana",
+     "pepper"
+    ],
+    [
+     "pepper",
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    360,
+    850
+   ],
+   "w": 1,
+   "layers": [
+    [
+     "strawberry"
+    ],
+    [
+     "apple~1"
+    ],
+    [
+     "broccoli"
+    ]
+   ]
+  },
+  {
+   "pos": [
+    580,
+    850
+   ],
+   "w": 2,
+   "layers": [
+    [
+     "banana",
+     "apple"
+    ],
+    [
+     "banana?",
+     "banana"
+    ],
+    [
+     "pepper",
+     "banana"
+    ]
+   ]
+  }
+ ],
+ "sim": 0.94
+}
